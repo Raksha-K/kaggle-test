@@ -1,2 +1,2 @@
 # kaggle-test
-Repository to store kaggle projects
+Repository to store kaggle projects code and tests
